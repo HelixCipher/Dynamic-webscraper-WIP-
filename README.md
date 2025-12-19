@@ -41,7 +41,7 @@ Dependencies include:
 1. Clone the Repository
 
 
-git clone https://github.com/A-L-E-X-W/Dynamic-webscraper-WIP-.git
+git clone https://github.com/HelixCipher/Dynamic-webscraper-WIP-.git
 
 cd repo-name
 
